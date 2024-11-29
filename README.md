@@ -14,7 +14,6 @@
 - [기술 스택](https://github.com//hopepu/ProjectIT#-기술-스택)
 - [프로젝트 설계](https://github.com//hopepu/ProjectIT#프로젝트-설계)
 - [핵심 기능](https://github.com//hopepu/ProjectIT#-핵심-기능)
-- [개선사항](https://github.com//hopepu/ProjectITt#-개선사항)
   
 
 
